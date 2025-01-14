@@ -1,3 +1,4 @@
+![logo](https://github.com/Sangeeta-9305-SelfLearner/Sangeeta-9305-SelfLearner/blob/main/Sangeeta%20yadav.png)
 <h1 align="center">Hi 👋, I'm Sangeeta Yadav</h1>
 <h3 align="center">Aspiring Java Full-Stack Developer <br/> I have a strong foundation in Java, DSA, and database management and am passionate about building scalable and efficient software solutions.</h3>
 
