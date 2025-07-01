@@ -1,7 +1,7 @@
 ![logo](https://github.com/Sangeeta-9305-SelfLearner/Sangeeta-9305-SelfLearner/blob/main/Java%20developer.png)
 <h1 align="center">Hi 👋, I'm Sangeeta Yadav</h1>
-<h3 align="center">Aspiring Java Full-Stack Developer</h3>
-<h4 aling="center">I have a strong foundation in Java, DSA, and database management <br/>and  am passionate about building scalable and efficient software solutions</h4>
+<h3 align="center">Aspiring Android Developer</h3>
+<h4 aling="center">I have a strong foundation in Kotlin,Java,JetPack Compose, DSA, and Database management <br/>and  am passionate about building scalable and efficient software solutions</h4>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
