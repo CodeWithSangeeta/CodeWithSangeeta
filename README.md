@@ -1,39 +1,56 @@
-![logo](https://github.com/Sangeeta-9305-SelfLearner/Sangeeta-9305-SelfLearner/blob/main/Java%20developer.png)
+![Header](https://github.com/Sangeeta-9305-SelfLearner/Sangeeta-9305-SelfLearner/blob/main/Java%20developer.png)
+
 <h1 align="center">Hi 👋, I'm Sangeeta Yadav</h1>
-<h3 align="center">Aspiring Android Developer</h3>
-<h4 aling="center">I have a strong foundation in Kotlin,Java,JetPack Compose, DSA, and Database management <br/>and  am passionate about building scalable and efficient software solutions</h4>
+<h3 align="center">Aspiring Android Developer | Kotlin Enthusiast | Problem Solver</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangeeta-9305-selflearner&label=Profile%20views&color=0e75b6&style=flat" alt="sangeeta-9305-selflearner" /> </p>
-
-- 🔭 I’m currently working on **University Management System**
-
-- 🌱 I’m currently learning **Data Structure & Algorithms**
-
-- 👯 I’m looking to collaborate on **Open Source Java Projects <br/> Exploring opportunities to contribute to meaningful projects that make a difference.**
-
-- 🤝 I’m looking for help with **Java Frameworks**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sangeeta-yadav-23473b334/](https://www.linkedin.com/in/sangeeta-yadav-23473b334/)
-
-- 💬 Ask me about **Java Development, Data Structures & Algorithms, and Database Design**
-
-- 📫 How to reach me **sangeetayadav6826@gmail.com**
-
-- ⚡ Fun fact **I love solving puzzles and believe coding is like solving a new one every day!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sangeeta_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangeeta_yadav" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sangeeta_technologist_11199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sangeeta_technologist_11199" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangeeta-9305-selflearner&show_icons=true&locale=en&layout=compact" alt="sangeeta-9305-selflearner" /></p>
+### 👩‍💻 About Me  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangeeta-9305-selflearner&show_icons=true&locale=en" alt="sangeeta-9305-selflearner" /></p>
+Hi, I’m **Sangeeta Yadav** 👋  
+I am an **Aspiring Android Developer** with a strong foundation in **Java, Kotlin, Jetpack Compose, DSA, and Databases**.  
+I enjoy building applications that are **scalable, efficient, and user-friendly**, while continuously improving my problem-solving skills through **Data Structures and Algorithms**.  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangeeta-9305-selflearner&" alt="sangeeta-9305-selflearner" /></p>
+- 📱 Currently focused on **Android Development** with **Kotlin** and **Jetpack Compose**  
+- 🛠️ Actively learning and implementing **Room Database**, **Firebase**, and **MVVM architecture** in projects  
+- 💻 I love exploring **Java frameworks** and backend concepts to become a well-rounded **Full Stack Developer** in the future  
+- 🔍 Practicing **DSA daily** to strengthen logical thinking and coding efficiency  
+- 🚀 Last project: **Daily Task App** (Task management app with add, edit, delete, update, and due-date features)  
+- 🤝 Open to collaborating on **Android projects, open source contributions, and problem-solving challenges**  
+- 💬 Ask me about **Android Development, Java/Kotlin, DSA, Database Design, and Project Building**  
+- 📫 Reach me at: **sangeetayadav6826@gmail.com**  
+- ⚡ Fun fact: *For me, coding is like solving puzzles — every bug fixed feels like unlocking a new level!*  
+ 
+
+---
+
+### 🚀 Skills & Tools  
+
+#### 💻 Programming Languages  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+
+#### 📱 Android Development  
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)  
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%23007ACC.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)  
+![Room Database](https://img.shields.io/badge/Room%20Database-%23FF6F00.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  
+
+
+
+
+### 🌐 Connect With Me  
+<p align="left">
+  <a href="https://linkedin.com/in/sangeeta-yadav-23473b334" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.leetcode.com/sangeeta_technologist_11199" target="blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+</p>
+
+---
+
+🔥 *“Always learning, always building — one project at a time!”* 🚀
