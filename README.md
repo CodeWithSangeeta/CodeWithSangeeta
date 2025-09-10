@@ -16,8 +16,7 @@ I am an **Aspiring Android Developer** with a strong foundation in **Java, Kotli
 I enjoy building applications that are **scalable, efficient, and user-friendly**, while continuously improving my problem-solving skills through **Data Structures and Algorithms**.  
 
 - 📱 Currently focused on **Android Development** with **Kotlin** and **Jetpack Compose**  
-- 🛠️ Actively learning and implementing **Room Database**, **Firebase**, and **MVVM architecture** in projects  
-- 💻 I love exploring **Java frameworks** and backend concepts to become a well-rounded **Full Stack Developer** in the future  
+- 🛠️ Actively learning and implementing **Room Database**, **Firebase**, and **MVVM architecture** in projects   
 - 🔍 Practicing **DSA daily** to strengthen logical thinking and coding efficiency  
 - 🚀 Last project: **Daily Task App** (Task management app with add, edit, delete, update, and due-date features)  
 - 🤝 Open to collaborating on **Android projects, open source contributions, and problem-solving challenges**  
@@ -30,27 +29,53 @@ I enjoy building applications that are **scalable, efficient, and user-friendly*
 
 ### 🚀 Skills & Tools  
 
-#### 💻 Programming Languages  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+### 💻 Programming Languages  
+<p align="left">  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  
+  </a>  
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>  
+  </a>  
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  
+  </a>  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
+  </a>  
+</p>  
 
-#### 📱 Android Development  
-![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)  
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%23007ACC.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)  
-![Room Database](https://img.shields.io/badge/Room%20Database-%23FF6F00.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  
+### 📱 Android Development  
+<p align="left">  
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>  
+  </a>  
+  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">  
+    <img src="https://developer.android.com/images/brand/Android_Robot.png" alt="jetpack compose" width="40" height="40"/>  
+  </a>  
+  <a href="https://developer.android.com/training/data-storage/room" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="room database" width="40" height="40"/>  
+  </a>  
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>  
+  </a>  
+</p>  
+
 
 
 
 
 ### 🌐 Connect With Me  
 <p align="left">
-  <a href="https://linkedin.com/in/sangeeta-yadav-23473b334" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.leetcode.com/sangeeta_technologist_11199" target="blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sangeeta-yadav-23473b334" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.leetcode.com/sangeeta_technologist_11199" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-🔥 *“Always learning, always building — one project at a time!”* 🚀
+🔥 “Turning ideas into code, solving problems, building apps, and growing one commit at a time.” 🚀
+
