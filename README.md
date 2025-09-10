@@ -18,7 +18,7 @@ I enjoy building applications that are **scalable, efficient, and user-friendly*
 - 📱 Currently focused on **Android Development** with **Kotlin** and **Jetpack Compose**  
 - 🛠️ Actively learning and implementing **Room Database**, **Firebase**, and **MVVM architecture** in projects   
 - 🔍 Practicing **DSA daily** to strengthen logical thinking and coding efficiency  
-- 🚀 Last project: **Daily Task App** (Task management app with add, edit, delete, update, and due-date features)  
+- 🚀 Last project: **Daily Task App** (Task management app with add, edit, delete, update, priority, due-date and remainder features)  
 - 🤝 Open to collaborating on **Android projects, open source contributions, and problem-solving challenges**  
 - 💬 Ask me about **Android Development, Java/Kotlin, DSA, Database Design, and Project Building**  
 - 📫 Reach me at: **sangeetayadav6826@gmail.com**  
@@ -32,48 +32,45 @@ I enjoy building applications that are **scalable, efficient, and user-friendly*
 ### 💻 Programming Languages  
 <p align="left">  
   <a href="https://www.java.com" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45" style="margin-right: 20px;"/>  
   </a>  
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45" style="margin-right: 20px;"/>  
   </a>  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45" style="margin-right: 20px;"/>  
   </a>  
   <a href="https://www.python.org" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" style="margin-right: 20px;"/>  
   </a>  
 </p>  
 
 ### 📱 Android Development  
 <p align="left">  
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="45" height="45" style="margin-right: 20px;"/>  
   </a>  
   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">  
-    <img src="https://developer.android.com/images/brand/Android_Robot.png" alt="jetpack compose" width="40" height="40"/>  
+    <img src="https://developer.android.com/images/compose/compose-logo.png" alt="jetpack compose" width="45" height="45" style="margin-right: 20px;"/>  
   </a>  
   <a href="https://developer.android.com/training/data-storage/room" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="room database" width="40" height="40"/>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="room database" width="45" height="45" style="margin-right: 20px;"/>  
   </a>  
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>  
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45" style="margin-right: 20px;"/>  
   </a>  
 </p>  
-
-
-
-
 
 ### 🌐 Connect With Me  
 <p align="left">
   <a href="https://linkedin.com/in/sangeeta-yadav-23473b334" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45" style="margin-right: 20px;"/>
   </a>
   <a href="https://www.leetcode.com/sangeeta_technologist_11199" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="45" height="45" style="margin-right: 20px;"/>
   </a>
 </p>
+
 
 ---
 
