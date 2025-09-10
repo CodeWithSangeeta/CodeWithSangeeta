@@ -1,4 +1,4 @@
-![Header](https://github.com/Sangeeta-9305-SelfLearner/Sangeeta-9305-SelfLearner/blob/main/Java%20developer.png)
+![Header](https://github.com/CodeWithSangeeta/CodeWithSangeeta/blob/main/Profile_banner.jpeg)
 
 <h1 align="center">Hi 👋, I'm Sangeeta Yadav</h1>
 <h3 align="center">Aspiring Android Developer | Kotlin Enthusiast | Problem Solver</h3>
