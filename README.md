@@ -49,10 +49,7 @@ I enjoy building applications that are **scalable, efficient, and user-friendly*
 <p align="left">  
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="45" height="45" style="margin-right: 20px;"/>  
-  </a>  
-  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">  
-    <img src="https://developer.android.com/images/compose/compose-logo.png" alt="jetpack compose" width="45" height="45" style="margin-right: 20px;"/>  
-  </a>  
+  </a>   
   <a href="https://developer.android.com/training/data-storage/room" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="room database" width="45" height="45" style="margin-right: 20px;"/>  
   </a>  
