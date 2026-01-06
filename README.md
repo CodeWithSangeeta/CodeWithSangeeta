@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Sangeeta Yadav</h1>
 <h3 align="center">Aspiring Android Developer | Kotlin Enthusiast | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400"/>
-</p>
-
 ---
 
 ### 👩‍💻 About Me  
@@ -67,14 +63,6 @@ I enjoy building applications that are **scalable, efficient, and user-friendly*
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="45" height="45" style="margin-right: 20px;"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithSangeeta&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSangeeta&layout=compact&theme=radical" alt="Top Languages" height="180em" />
-</p>
-
-
-
 
 
 
