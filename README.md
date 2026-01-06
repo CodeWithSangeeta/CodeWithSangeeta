@@ -1,25 +1,134 @@
 ![Header](https://github.com/CodeWithSangeeta/CodeWithSangeeta/blob/main/Profile_banner.jpeg)
 
 <h1 align="center">Hi 👋, I'm Sangeeta Yadav</h1>
-<h3 align="center">Aspiring Android Developer | Kotlin Enthusiast | Problem Solver</h3>
+<h3 align="center"> Android Developer |Open Source Contributor | Kotlin & Jetpack Compose</h3>
 
 ---
 
-### 👩‍💻 About Me  
+ # 🌱 Developer Snapshot
 
-Hi, I’m **Sangeeta Yadav** 👋  
-I am an **Aspiring Android Developer** with a strong foundation in **Java, Kotlin, Jetpack Compose, DSA, and Databases**.  
-I enjoy building applications that are **scalable, efficient, and user-friendly**, while continuously improving my problem-solving skills through **Data Structures and Algorithms**.  
+I’m an Android Developer who enjoys working at the intersection of clean architecture, real-world problem solving, and open-source collaboration.
 
-- 📱 Currently focused on **Android Development** with **Kotlin** and **Jetpack Compose**  
-- 🛠️ Actively learning and implementing **Room Database**, **Firebase**, and **MVVM architecture** in projects   
-- 🔍 Practicing **DSA daily** to strengthen logical thinking and coding efficiency  
-- 🚀 Last project: **Daily Task App** (Task management app with add, edit, delete, update, priority, due-date and remainder features)  
-- 🤝 Open to collaborating on **Android projects, open source contributions, and problem-solving challenges**  
-- 💬 Ask me about **Android Development, Java/Kotlin, DSA, Database Design, and Project Building**  
-- 📫 Reach me at: **sangeetayadav6826@gmail.com**  
-- ⚡ Fun fact: *For me, coding is like solving puzzles — every bug fixed feels like unlocking a new level!*  
- 
+My focus is on building production-ready Android applications using Kotlin and Jetpack Compose, while continuously sharpening my problem-solving skills through DSA and learning from large codebases.
+
+I believe strong developers are built not just by tutorials—but by debugging real issues, reading others’ code, and improving existing systems.
+
+# 🧩 What I Work On
+
+📱 Android development with Kotlin & Jetpack Compose
+
+🏗️ MVVM-based architecture with proper state management
+
+💾 Room Database for structured local data storage
+
+☁️ Firebase (Auth, Firestore/Realtime DB) for backend integration
+
+♿ Accessibility-aware UI (focus, contrast, usability in different modes)
+
+🧠 Daily DSA practice (Java) to improve logic, edge-case handling, and efficiency
+
+🌍 Open-source contributions: understanding issues, reproducing bugs, and working on targeted fixes
+
+# 🚀 Active Projects
+### 📚 EduBond
+
+- Android application focused on student utilities
+
+- Working with Jetpack Compose UI, Room-based data flow, and clean architecture
+
+- Hands-on experience debugging UI, state, and data-layer issues in a growing codebase
+
+### 🎬 ReelsBreak
+
+- Android app centered around content interaction
+
+- Focus on performance, UI behavior, and user experience
+
+- Applying modern Android practices and iterative improvements
+
+### ✅ Daily Task App
+
+  **Personal productivity app with:**
+
+- Add / Edit / Delete tasks
+- Priority handling
+- Due dates & reminders
+
+ **Built to strengthen understanding of local persistence, UI state, and app flow**
+
+# 🛠️ Technical Skill Set
+
+### Languages
+
+- Kotlin (Primary – Android)
+  
+- Java (DSA & core concepts)
+
+### Android Stack
+
+- Jetpack Compose
+
+- MVVM Architecture
+
+- Room Database
+
+- Firebase
+
+- Accessibility best practices
+
+### Problem Solving
+
+- Data Structures & Algorithms
+
+- Edge-case analysis
+
+- Debugging failing test cases
+
+### Tools & Workflow
+
+- Android Studio
+
+- Git & GitHub
+
+- Reading and navigating large codebases
+
+# 🌍 Open Source Mindset
+
+- I actively explore open-source projects by:
+
+- Spending time understanding existing issues
+
+- Reproducing bugs locally before touching code
+
+- Reading relevant parts of the codebase instead of the whole project
+
+- Asking clarifying questions before implementation
+
+- Learning how production-level Android apps are structured
+
+This process has helped me grow confidence, patience, and real engineering judgment.
+
+# 🤝 Looking To Collaborate On
+
+- Android projects (Compose-based preferred)
+
+- Open-source Android issues
+
+- Learning-focused collaborations
+
+- Problem-solving and architecture discussions
+
+# 💬 You Can Ask Me About
+
+Android Development • Kotlin • Jetpack Compose • Room • Firebase • Accessibility • DSA • Debugging • Open Source
+
+# 📫 Contact
+
+📧 Email: sangeetayadav6826@gmail.com
+
+# ⚡ Fun Fact
+
+I enjoy debugging complex bugs more than writing fresh code—because every fix teaches something new 🚀
 
 ---
 
@@ -63,7 +172,6 @@ I enjoy building applications that are **scalable, efficient, and user-friendly*
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="45" height="45" style="margin-right: 20px;"/>
   </a>
 </p>
-
 
 
 ---
