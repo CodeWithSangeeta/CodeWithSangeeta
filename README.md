@@ -4,7 +4,7 @@
 <h3 align="center"> Android Developer |Open Source Contributor | Kotlin & Jetpack Compose</h3>
 
 ---
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsangeeta&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsangeeta" /> </p>
  # 🌱 Developer Snapshot
 
 I’m an Android Developer who enjoys working at the intersection of clean architecture, real-world problem solving, and open-source collaboration.
@@ -171,10 +171,21 @@ I enjoy debugging complex bugs more than writing fresh code—because every fix 
   <a href="https://www.leetcode.com/sangeeta_technologist_11199" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="45" height="45" style="margin-right: 20px;"/>
   </a>
+ <a href="https://auth.geeksforgeeks.org/user/sangeeta yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sangeeta yadav" height="30" width="40" /></a>
 </p>
 
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithsangeeta&show_icons=true&locale=en&layout=compact" alt="codewithsangeeta" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithsangeeta&show_icons=true&locale=en" alt="codewithsangeeta" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsangeeta&" alt="codewithsangeeta" /></p>
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=CodeWithSangeeta&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 
 🔥 “Turning ideas into code, solving problems, building apps, and growing one commit at a time.” 🚀
 
